@@ -1,0 +1,2 @@
+# Covid-19-analyzer
+In this application the user will enter his / her name then they have to enter the situation or condition of their body. Whether they are feeling well or not.  On the basis of their entries in the checkbox the program will evaluate wheather they have COVID-19 or not.  This app will help people to evolve it whether they are fine or not and take further steps regarding their  health
